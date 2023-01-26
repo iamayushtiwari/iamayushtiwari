@@ -1,6 +1,6 @@
 <br/>
 <h2>hey my name is Ayush</h2>
-<img align='right' src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="230" />
+<img align='right' src="[https://giphy.com/embed/du3J3cXyzhj75IOgvA](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)" width="230" />
 
 
 
