@@ -1,7 +1,7 @@
 
 # Hi, I'm Ayush! 👋
 
-![App Screenshot](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 ## 🚀 About Me
 I'm a MERN full stack developer 💻 , I have in depth knowledge of HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB and Git
 
