@@ -1,25 +1,36 @@
-<br/>
-<h2>hey my name is Ayush</h2>
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230" />
+
+# Hi, I'm Ayush! 👋
+
+![App Screenshot](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+## 🚀 About Me
+I'm a MERN full stack developer 💻 , I have in depth knowledge of HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB and Git
+
+I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more! 😊
 
 
+## 🛠 Skills
+1.Front-end development using HTML5, CSS3, JS, React.js, Redux, ejs.
 
-<em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
+2.Backend development using Node, Express.
 
-I am a MERN FULL STACK DEVELOPER💻 , I have in depth knowledge of HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB and Git.
+3.Architectural design for Relational Database Management Systems as well as for NoSQL database systems like MongoDB.
+
+4.Robust full-stack system design implementation.
+
+5.Others : JAVA,MY SQL, Swift REST API, JWT, Object-Oriented Programming etc.
 
 
-⚡Technologies:
-1) Front-end development using HTML5, CSS3, JS, React, Redux.
-2) Backend development using Node, Express.
-3) Architectural design for Relational Database Management Systems as well as for NoSQL database systems like MongoDB.
-4) Robust full-stack system design implementation.
-5) Others : JAVA,MY SQL, Swift REST API, JWT, Object-Oriented Programming etc.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamayushtiwari.github.io/home/)
 
-📫Contact Me:
-1) Gmail : ayushtiwari81197@gmail.com/
+[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamayushtiwari)
 
-👨🏻‍💻 Other Platforms:
-1) GitHub : https://github.com/iamayushtiwari/
-2) leetcode : https://leetcode.com/iamayushtiwari/
-Thank you
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamayushtiwari/)
+
+[![twitter](https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamayushtiwari/)
+
+
+## Support
+
+For support, email ayushtiwari81197@gmail.com or connect on Linkedin.
+
